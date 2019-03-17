@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Burger.unity
+  isLoaded: 1
+  isActive: 1
